@@ -1,2 +1,2 @@
 # Practice-
-for my projects from courser
+for my projects from Coursera
